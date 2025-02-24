@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chavan</h1>
 <h3 align="center">A passionate Ai developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekchavan1&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekchavan1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchavan1" alt="abhishekchavan1" /></a> </p>
 
