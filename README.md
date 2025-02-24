@@ -3,8 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekchavan1" alt="abhishekchavan1" /></a> </p>
-
 - 🌱 I’m currently learning **Generative Ai.**
 
 - 💬 Ask me about **Deeplearning, Machine Learning**
