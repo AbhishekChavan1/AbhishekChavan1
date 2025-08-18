@@ -1,6 +1,6 @@
 <!-- Welcome Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile!;I'm+Abhishek+Chavan;AI+%7C+ML+%7C+Computer+Vision+%7C+NLP+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile!;I'm+Abhishek+Chavan;AI+%7C+ML+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
 </h1>
 
 ---
