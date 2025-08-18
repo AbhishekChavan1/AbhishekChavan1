@@ -151,4 +151,7 @@ Machine Learning · Deep Learning · Computer Vision · Generative AI · Python 
 
 ---
 
-![snake animation](https://github.com/AbhishekChavan1/AbhishekChavan1/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhishekChavan1/AbhishekChavan1/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
