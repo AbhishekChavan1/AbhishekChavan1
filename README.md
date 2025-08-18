@@ -152,6 +152,7 @@ Machine Learning · Deep Learning · Computer Vision · Generative AI · Python 
 ---
 
 ## 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbhishekChavan1/AbhishekChavan1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
