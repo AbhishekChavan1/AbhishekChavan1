@@ -3,11 +3,11 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/dare-marvel/dare-marvel"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/dare-marvel/dare-marvel/graphs/contributors"><img src="https://img.shields.io/github/contributors/dare-marvel/dare-marvel?color=blue"></a>
-    <a href="https://github.com/dare-marvel/dare-marvel/stargazers"><img src="https://img.shields.io/github/stars/dare-marvel/dare-marvel.svg?logo=github"></a>
-    <a href="https://github.com/dare-marvel/dare-marvel/network/members"><img src="https://img.shields.io/github/forks/dare-marvel/dare-marvel.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=dare-marvel.dare-marvel" alt="visitors"/>   
+    <a href="https://github.com/AbhishekChavan1/AbhishekChavan1"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/AbhishekChavan1/AbhishekChavan1/graphs/contributors"><img src="https://img.shields.io/github/contributors/AbhishekChavan1/AbhishekChavan1?color=blue"></a>
+    <a href="https://github.com/AbhishekChavan1/AbhishekChavan1/stargazers"><img src="https://img.shields.io/github/stars/AbhishekChavan1/AbhishekChavan1.svg?logo=github"></a>
+    <a href="https://github.com/AbhishekChavan1/AbhishekChavan1/network/members"><img src="https://img.shields.io/github/forks/AbhishekChavan1/AbhishekChavan1.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AbhishekChavan1.AbhishekChavan1" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -15,11 +15,11 @@
 
 <!--   my-ticker -->
 <p align="center" >
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Adwait+Purao;Project+Intern+at+Oracle;UI/UX+Developer;Backend+Developer;C,Cpp,Java,Python,Javascript,Typescript;3+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast" alt="Adwait's tickering text" /></a>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Abhishek+Chavan;Ai & ML;Data Science;C,Cpp,Java,Python,Javascript;2+years+of+programming+experience;Always+learning+new+things+;Machine+learning" alt="Abhishek's tickering text" /></a>
 </p>
     
 <!--   Profile views -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dare-marvel&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbhishekChavan1&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" /> </p>
 
 <!--  About me -->
 <hr/>
@@ -30,18 +30,18 @@
     <td valign="top" width="50%">
 
 - 🔭 I’m currently working on Github projects, blogs etc...
-- 🌱 I’m currently learning Blockchain etc... 
+- 🌱 I’m currently learning Gen AI etc... 
 - 👯 I’m looking to collaborate on projects, tech articles... 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
-- 📫 How to reach me **adwait.purao@spit.ac.in**
+- 💬 Talk to me about Python, AI, Freelancing Opportunites, Open Source... 
+- 📫 How to reach me **abhishekmc13051@gmail.com**
 - ⚡ Fun fact : **All life is an experiment.The more you make the better.**
 
     </td>
     <td valign="top" width="50%">
 
-<!--  <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.indepth=true&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Adwait's Introduction" /> -->
+<!--  <img src="https://metrics.lecoq.io/dare-marvel?template=classic&base.indepth=true&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true" alt="Abhishek's Introduction" /> -->
 
-<img src="/github-metrics.svg" alt="Adwait's Introduction" />
+<img src="/github-metrics.svg" alt="Abhishek's Introduction" />
 
   </td>
   </tr>
@@ -51,7 +51,7 @@
 <!--   My Trophies -->  
 <hr/>
 <h2 align="center" >My Trophies</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dare-marvel&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's trophies" /></a> </p>      
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhishekChavan1&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Adwait's trophies" /></a> </p>      
 </p>
 
 
@@ -69,18 +69,8 @@
   <tbody>
     <tr>
       <td>Languages</td>
-      <td><a href="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,solidity"><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,solidity" alt="My Skills"/></a></td>
-    </tr>
-    <tr>
-      <td>Front-End</td>
-      <td><a href="https://skillicons.dev/icons?i=html,css,react"><img src="https://skillicons.dev/icons?i=html,css,react" alt="My Skills"/></a>
-	<img width="50" src="./Icons/preact.png" alt="Preact" title="Preact"/>
- 	<img width="50" src="./Icons/ojet.png" alt="OJET" title="OJET"/>
-  	<img width="50" src="Icons/knockoutjs.png" alt="KnockoutJs" title="KnockoutJs"/>
-   	<img width="50" src="./Icons/requirejs.png" alt="RequireJs" title="RequireJs"/>
-	<img width="50" src="./Icons/grapejs.png" alt="GrapeJs" title="GrapeJs"/>
-</td>
-    </tr>
+      <td><a href="https://skillicons.dev/icons?i=c,cpp,cs,python,java"><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java" alt="My Skills"/></a></td>
+    </tr>    
     <tr>
       <td>UI Frameworks</td>
       <td><a href="https://skillicons.dev/icons?i=threejs,vite,bootstrap,materialui,tailwind,redux,jquery"><img src="https://skillicons.dev/icons?i=threejs,vite,bootstrap,materialui,tailwind,redux,jquery" alt="My Skills"/></a>
