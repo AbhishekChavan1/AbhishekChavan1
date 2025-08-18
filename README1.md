@@ -177,7 +177,7 @@
 <!--   Leetcode and medium stats -->
 |Leetcode Stats | Medium Stats |
 | ------------- | ------------- |
-|![LeetCode Stats](https://leetcard.jacoblin.cool/legendaryphoenix?theme=wtf&font=Gafata&ext=activity) | <a href = 'https://medium.com/@adwait.purao'> <img  align= 'right' src="https://github-readme-medium.vercel.app/?username=adwait.purao"/></a> |
+|![LeetCode Stats](https://leetcard.jacoblin.cool/legendaryphoenix?theme=wtf&font=Gafata&ext=activity) | <a href = 'https://medium.com/@abhishekchavan2714'> <img  align= 'right' src="https://github-readme-medium.vercel.app/?username=abhishekchavan2714"/></a> |
 
 <div>
 
@@ -185,18 +185,17 @@
 <hr/>   
 <h1 align="center" > My Github Stats 📈: </h1>
     
-<a href="https://github.com/dare-marvel/github-readme-activity-graph" ><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dare-marvel&theme=dracula"
-                 alt="Adwait's github activity graph" /></a>
+<a href="https://github.com/AbhishekChavan1/github-readme-activity-graph" ><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekChavan1&theme=dracula" alt="Abhishek's github activity graph" /></a>
     
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dare-marvel&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Adwait's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dare-marvel&theme=radical&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekChavan1&theme=radical&hide=contribs,issues&show_icons=true&hide_border=true" alt="Abhishek's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekChavan1&theme=radical&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=dare-marvel&theme=radical" alt="GitHub Streak" /></a> | <img  src="/metrics.plugin.achievements.compact.svg" alt="Adwait Purao achievements" /> |
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=AbhishekChavan1&theme=radical" alt="GitHub Streak" /></a> | <img  src="/metrics.plugin.achievements.compact.svg" alt="Abhishek Chavan achievements" /> |
 | ------------- | ------------- | 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dare-marvel&theme=radical" width = "65%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dare-marvel&theme=radical&utcOffset=4" width = "31.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekChavan1&theme=radical" width = "65%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhishekChavan1&theme=radical&utcOffset=4" width = "31.5%" />
 </p>
 
 
@@ -228,7 +227,7 @@
   <img alt="github-snake" src="github-snake.svg" /> 
     </picture> -->
 
-![snake gif](https://github.com/Dare-marvel/Dare-marvel/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AbhishekChavan1/AbhishekChavan1l/blob/output/github-snake-dark.svg)
 
 
 
