@@ -34,4 +34,4 @@ jobs:
           plugin_followup_sections: repositories
           output_action: commit
           committer_branch: main
-          committer_commit_message: "chore: update profile metrics"
+          committer_message: "chore: update profile metrics"
